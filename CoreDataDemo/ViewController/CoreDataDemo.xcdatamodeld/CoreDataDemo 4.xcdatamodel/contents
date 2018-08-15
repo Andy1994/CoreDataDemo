@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14270.9" systemVersion="" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="A_Monday" representedClassName="A_Monday" syncable="YES" codeGenerationType="class">
+        <attribute name="boolType" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="dateType" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="intType" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="stringType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="stringType2" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="B_Tuesday" representedClassName="B_Tuesday" syncable="YES" codeGenerationType="class">
+        <attribute name="boolType" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="dateType" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="intType" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="stringType" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="C_Wednesday" representedClassName="C_Wednesday" syncable="YES" codeGenerationType="class"/>
+    <entity name="D_Thursday" representedClassName="D_Thursday" syncable="YES" codeGenerationType="class"/>
+    <entity name="E_Friday" representedClassName="E_Friday" syncable="YES" codeGenerationType="class"/>
+    <entity name="F_Saturday" representedClassName="F_Saturday" syncable="YES" codeGenerationType="class"/>
+    <entity name="G_Sunday" representedClassName="G_Sunday" syncable="YES" codeGenerationType="class"/>
+    <elements>
+        <element name="A_Monday" positionX="-63" positionY="-18" width="128" height="120"/>
+        <element name="B_Tuesday" positionX="-54" positionY="-9" width="128" height="105"/>
+        <element name="C_Wednesday" positionX="-18" positionY="27" width="128" height="45"/>
+        <element name="D_Thursday" positionX="-36" positionY="9" width="128" height="45"/>
+        <element name="E_Friday" positionX="0" positionY="45" width="128" height="45"/>
+        <element name="F_Saturday" positionX="18" positionY="63" width="128" height="45"/>
+        <element name="G_Sunday" positionX="36" positionY="81" width="128" height="45"/>
+    </elements>
+</model>
